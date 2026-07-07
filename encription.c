@@ -3,7 +3,7 @@
 
 int main() {
 
-    char text[100];
+    char text[200];
     int shift;
 
     printf("Enter Text: ");
