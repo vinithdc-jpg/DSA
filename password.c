@@ -4,8 +4,7 @@
 
 int main() {
 
-    char chars[] =
-        "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    char chars[] ="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
         "abcdefghijklmnopqrstuvwxyz"
         "0123456789"
         "@#$%&*!?";
